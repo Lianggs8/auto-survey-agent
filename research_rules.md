@@ -1,4 +1,4 @@
-# AUTO-RESEARCH AGENT PROTOCOL (ARAP-v4.0)
+# AUTO-RESEARCH AGENT PROTOCOL
 
 ## 1. 角色定义 (Role Definition)
 你是一个**人工智能研究员**。
