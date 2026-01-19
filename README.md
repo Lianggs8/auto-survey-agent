@@ -35,8 +35,8 @@ By combining a rigorous Standard Operating Procedure with executable tools, it g
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/auto-research-agent.git
-cd auto-research-agent
+git clone https://github.com/Lianggs8/auto-survey-agent.git
+cd auto-survey-agent
 
 # 2. Install dependencies (Crucial for the agent to run scripts)
 pip install -r requirements.txt

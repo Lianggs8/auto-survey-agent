@@ -35,8 +35,8 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/your-username/auto-research-agent.git
-cd auto-research-agent
+git clone https://github.com/Lianggs8/auto-survey-agent.git
+cd auto-survey-agent
 
 # 2. 安装依赖 (这对 Agent 能够运行脚本至关重要)
 pip install -r requirements.txt
