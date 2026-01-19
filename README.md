@@ -4,7 +4,7 @@
 
 **A practical toolkit that turns your coding agent into an autonomous academic researcher.**
 
-This repository provides the protocols and tools necessary for AI Agents (such as GitHub Copilot, Cursor, Windsurf) to conduct **fully automated, deep, and systematic literature surveys**. 
+This repository provides the protocols and tools necessary for AI Agents (such as GitHub Copilot, Cursor) to conduct **fully automated, deep, and systematic literature surveys**. 
 
 By combining a rigorous Standard Operating Procedure with executable tools, it guides the agent through a complete "Funnel Process": from wide scoping to intelligent selection, and finally to deep analysis and report generation.
 
